@@ -1,0 +1,10 @@
+<body>
+  <form action="https://formsubmit.co/nguyenquocviet2106@gmail.com" method="POST">
+    <label for="navn">Navn:</label>
+    <input type="text" name="name" placeholder="Navn">
+    <label for="email">Epost:</label>
+    <input type="email" name="email" placeholder="E-post">
+    <textarea name="melding"></textarea>
+    <input type="submit">
+  </form>
+</body>
